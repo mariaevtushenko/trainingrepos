@@ -1,4 +1,2 @@
-h1 {
-	color: #111293;
-	text-transform: uppercase;
+h1 { color: #111293; text-transform: uppercase; font-size: 1000px; padding: 0.1px; background-color: pink;
 }
